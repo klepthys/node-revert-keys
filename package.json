@@ -1,0 +1,8 @@
+{"name":"revert-keys",
+  "version":"0.0.1",
+  "homepage":"https://github.com/klepthys/node-revert-keys",
+  "keywords":["search","object","keys"],
+  "scripts":{
+    "test":"node test.js"
+  }
+}
